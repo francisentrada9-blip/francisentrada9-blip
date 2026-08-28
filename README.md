@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am student based in Quezon City, Cubao, Philippines,currently studying at ICCT Colleges in Cainta
+I am student based in Quezon City, Cubao, Philippines, currently studying at ICCT Colleges in Cainta
 This space is my digital workshop—where I upload my school projects, technical experiments, and whatever I happen to be building or tinkering with at the moment.
+
+MY TECH STACK
+*Languanges : JavaSCript, C++, Python.
+*Software & Tools: Visual Studio Code (VS), AutoDesk AutoCAD
