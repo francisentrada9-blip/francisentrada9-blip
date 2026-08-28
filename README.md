@@ -18,5 +18,9 @@ I am student based in Quezon City, Cubao, Philippines, currently studying at ICC
 This space is my digital workshop—where I upload my school projects, technical experiments, and whatever I happen to be building or tinkering with at the moment.
 
 MY TECH STACK
-*Languanges : JavaSCript, C++, Python.
-*Software & Tools: Visual Studio Code (VS), AutoDesk AutoCAD
+
+
+Languanges : JavaSCript, C++, Python.
+
+
+Software & Tools: Visual Studio Code (VS), AutoDesk AutoCAD
