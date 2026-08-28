@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am student based in Cubao, Quezon City, Philippines
+Currently studying at ICCT COLLEGES in Cainta
+This space is my digital workshop—where I upload my school projects, technical experiments, and whatever I happen to be building or tinkering with at the moment.
